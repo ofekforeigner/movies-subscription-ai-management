@@ -1,0 +1,1 @@
+A full-stack movie and subscription management application built with React, Node.js, Express, and MongoDB. Features include movie catalog management, subscription tracking, user authentication, and a responsive interface for seamless user experience.
