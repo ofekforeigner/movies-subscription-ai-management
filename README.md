@@ -1,1 +1,1 @@
-A full-stack movie and subscription management application built with React, Node.js, Express, and MongoDB. Features include movie catalog management, subscription tracking, user authentication, and a responsive interface for seamless user experience.
+A full-stack movie and subscription management application built with React, Node.js, Express, and MongoDB. The project integrates the OpenAI API to provide AI-powered features, alongside movie catalog management, subscription tracking, user authentication, and a responsive user interface.
